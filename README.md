@@ -6,6 +6,5 @@ Una elemento importante de la Programación Básica es el uso del residuo ("mod"
 ## Introducción
 El problema cotidiano de idear un proyecto después de adquirir una pieza de conocimiento nuevo me requiere una sesuda capacidad creativa, finalmente he llegado a la conclusión que dejar el proyecto del curso de Programación Básica de Platzi.
 
-
 ## Métdos
-
+Cuando se toman dos números y se dividen entre sí, siempre hay un residuo. En JavaScript la Operación Residuo se escribe "a%b" y arroja el Résiduo de la División entre a y b. Esto reulta muy útil al momento de comprobar la divisibilidad de un número entre otro, si a * x = b con x número natural; entonces a es divisible en b. Un número es múltiplo de otro, por esta misma sentencia b es múltiplo de a. Hemos encontrado entonces el método para saber si un número es múltiplo de otro con una simple operación artimética. El proceso se resumuría entonces a escribir y discriminar los múltiplos de 5 o 3.
